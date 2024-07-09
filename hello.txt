@@ -1,1 +1,2 @@
 This is to demonstrate git init 
+This is added by Hari
