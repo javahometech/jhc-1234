@@ -1,2 +1,4 @@
 This is to demonstrate git init 
 This is added by Hari
+This is to demonstrate git init
+This is added by you
